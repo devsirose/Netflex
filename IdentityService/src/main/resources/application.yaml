@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mysql://identity-database.cvmuw8s4w79f.ap-southeast-1.rds.amazonaws.com:3306/identity
+    username: admin
+    password: N2g1h0i7a
